@@ -187,7 +187,7 @@
     }
   ],
   "references": [{
-    "name": "",
-    "reference": ""
-    }]
+    "name": "John Doe",
+    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt rutrum, nunc nisl aliquet justo, nec ultrices nisi nisl sit amet nisl."
+  }]
 }

@@ -8,7 +8,6 @@
   "basics": {
     "name": "Dr Rhys Wells",
     "label": "Data Scientist & Engineer",
-    "image": "https://avatars.githubusercontent.com/u/61824581?v=4",
     "email": "rhyslwells@outlook.com",
     "url": "https://rhyslwells.github.io",
     "summary": "Data scientist and engineer with a PhD in Mathematics and hands-on experience delivering machine learning solutions across research and industry. Security cleared and experienced working in cross-functional teams. Skilled in developing ML solutions, translating complex technical insights into actionable stakeholder recommendations, and advancing responsible AI adoption with strong model governance.",
@@ -36,8 +35,6 @@
       "position": "Data Engineer",
       "startDate": "2024-06-01",
       "summary": "Designed and validated predictive models for telemetry anomaly detection, developed modular time series toolkit, and led digitalisation initiatives.",
-      "url":"https://www.linkedin.com/company/veolia-environnement/",
-      "location": "Edinburgh, Scotland, United Kingdom",
       "highlights": [
         "Designed and validated predictive models for telemetry anomaly detection, improving early identification of operational issues.",
         "Developed a modular time series toolkit with anomaly detection and model validation workflows using Streamlit and FastAPI.",
@@ -71,32 +68,13 @@
       ]
     }
   ],
-  "projects": [
-        {
-      "name": "Data Archive",
-      "description": "My Second Brain.",
-      "startDate": "2025-08-01",
-      "roles": [
-        "Developer",
-        "Maintainer"
-      ],
-      "url": "",
-      "keywords": [
-        "Knowledge Graph"
-      ],
-      "type": "Open Source",
-      "highlights": [
-        "Test"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Liverpool",
       "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "2019-09-01",
-      "endDate": "2023-12-01",
+      "startDate": "2019-01-01",
+      "endDate": "2023-01-01",
       "summary": "Independent novel research in algebraic geometry, developing computational algorithms to compute graph structures. Collaborative research with the University of Washington. Presented research in Cambridge, London, and Paris."
     },
     {
@@ -140,17 +118,6 @@
         "BigQuery"
       ]
     },
-        {
-      "name": "Leadership",
-      "level": "Proficient",
-      "keywords": [
-        "Team Building",
-        "Mentoring",
-        "Cross-functional Collaboration",
-        "Project Management",
-        "Psychological Safety"
-      ]
-    },
     {
       "name": "Practices",
       "keywords": [
@@ -176,18 +143,6 @@
         "Data Science Meetups",
         "Responsible AI"
       ]
-    },
-        {
-      "name": "Time in Nature",
-      "keywords": [
-        "Backpacking",
-        "Bass Fishing",
-        "Outdoors"
-      ]
     }
-  ],
-  "references": [{
-    "name": "",
-    "reference": ""
-    }]
+  ]
 }
