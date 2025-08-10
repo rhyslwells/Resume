@@ -1,0 +1,25 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [
+        "agentic",
+        "gilbertsanchez",
+        "Helpdesk",
+        "Menlo",
+        "Intune",
+        "Señor",
+        "mdgrs",
+        "psake",
+        "foss",
+        "sunsetting",
+        "netgear",
+        "dlink",
+        "Blackstein",
+        "Whiston",
+        "Valdinger",
+    ],
+    "import": []
+}

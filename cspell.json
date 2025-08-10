@@ -1,0 +1,21 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [],
+    "ignoreWords": [
+        "agentic",
+        "rhyswells",
+        "Helpdesk",
+        "Menlo",
+        "Intune",,
+        "mdgrs",
+        "psake",
+        "foss",
+        "sunsetting",
+        "netgear",
+        "dlink"
+    ],
+    "import": []
+}
