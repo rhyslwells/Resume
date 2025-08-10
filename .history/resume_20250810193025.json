@@ -19,14 +19,14 @@
     },
     "profiles": [
             {
-        "network": "linkedin",
+        "network": "LinkedIn",
         "username": "rhyslwells",
         "url": "https://www.linkedin.com/in/rhyslwells/"
       },
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "rhyslwells",
-        "url": "https://github.com/rhyslwells/"
+        "url": "https://github.com/rhyslwells"
       }
     ]
   },
