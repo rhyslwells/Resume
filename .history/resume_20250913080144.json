@@ -8,7 +8,7 @@
   "basics": {
     "name": "Dr Rhys Wells",
     "label": "Data Scientist & Engineer",
-  "image": "https://rhyslwells.github.io/assets/images/fav.jpg?v=1",
+    "image": "https://rhyslwells.github.io/assets/images/fav.jpg", 
     "email": "rhyslwells@outlook.com",
     "url": "https://rhyslwells.github.io",
     "summary": "Data scientist and engineer with a PhD in Mathematics and hands-on experience delivering machine learning solutions across research and industry. Security cleared and experienced working in cross-functional teams. Skilled in developing ML solutions, translating complex technical insights into actionable stakeholder recommendations, and advancing responsible AI adoption with strong model governance.",
@@ -147,7 +147,7 @@
         "Team Building",
         "Mentoring",
         "Cross-functional Collaboration",
-        "Project Management"
+        "Project Management",
       ]
     },
         {
@@ -193,14 +193,7 @@
         "Fishing",
         "Hiking",
         "Camping"
-      ],
-      "achivements": [],
-      
-  "references": [],
-  "publications": [],
-  "volunteer": [],
-  "education": [],
-  "awards": []
+      ]
     }
   ]
 }

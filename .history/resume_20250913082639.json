@@ -6,7 +6,7 @@
     "theme": "elegant"
   },
   "basics": {
-    "name": "Dr Rhys Wells",
+    "name": "Dr Rhys Wells image",
     "label": "Data Scientist & Engineer",
     "image": "https://rhyslwells.github.io/assets/images/fav.jpg",
     "email": "rhyslwells@outlook.com",
@@ -18,15 +18,15 @@
       "countryCode": "GB"
     },
     "profiles": [
-      {
-        "network": "GitHub",
-        "username": "rhyslwells",
-        "url": "https://github.com/rhyslwells"
-      },
-      {
-        "network": "LinkedIn",
+            {
+        "network": "linkedin",
         "username": "rhyslwells",
         "url": "https://www.linkedin.com/in/rhyslwells/"
+      },
+      {
+        "network": "github",
+        "username": "rhyslwells",
+        "url": "https://github.com/rhyslwells/"
       }
     ]
   },
@@ -113,7 +113,7 @@
     {
       "name": "Programming & Scripting",
       "level": "Proficient",
-      "keywords": ["Python", "Pandas", "Scikit-learn", "SQL", "R", "Git", "Bash"]
+      "keywords": ["Python", "Pandas","Powershell", "Scikit-learn", "SQL", "R", "Git", "Bash"]
     },
     {
       "name": "Model Development & Evaluation",
@@ -147,8 +147,18 @@
         "Team Building",
         "Mentoring",
         "Cross-functional Collaboration",
-        "Project Management",
-        "Psychological Safety"
+        "Project Management"
+      ]
+    },
+        {
+      "name": "Communications",
+      "level": "Proficient",
+      "keywords": [
+        "Public Speaking",
+        "Active Listening",
+        "Empathy",
+        "Storytelling",
+        "Summarizing"
       ]
     },
     {
@@ -173,21 +183,22 @@
       "name": "Machine Learning Community",
       "keywords": [
         "MLOps Meetups",
-        "Data Science Meetups",
-        "Responsible AI"
+        "Data Science Meetups"
       ]
     },
         {
       "name": "Time in Nature",
       "keywords": [
         "Backpacking",
-        "Bass Fishing",
-        "Outdoors"
-      ]
+        "Fishing",
+        "Hiking",
+        "Camping"
+      ],
+  "references": [],
+  "publications": [],
+  "volunteer": [],
+  "education": [],
+  "awards": []
     }
-  ],
-  "references": [{
-    "name": "",
-    "reference": ""
-    }]
+  ]
 }

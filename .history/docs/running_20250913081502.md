@@ -47,3 +47,7 @@ npx resumed serve --theme jsonresume-theme-elegant
 If you run it without `--theme jsonresume-theme-elegant`, `resumed` will try to load a theme literally called `elegant`, which is why it fails.
 
 Do you want me to give you a **full working example** with `resume.json` so you can test this end-to-end? That way you’ll see HTML output right away.
+
+### generation
+
+resumed render

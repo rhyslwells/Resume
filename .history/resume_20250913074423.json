@@ -8,7 +8,7 @@
   "basics": {
     "name": "Dr Rhys Wells",
     "label": "Data Scientist & Engineer",
-    "image": "https://avatars.githubusercontent.com/u/61824581?v=4",
+    "image": "https://rhyslwells.github.io/assets/images/fav.jpg", //here?
     "email": "rhyslwells@outlook.com",
     "url": "https://rhyslwells.github.io",
     "summary": "Data scientist and engineer with a PhD in Mathematics and hands-on experience delivering machine learning solutions across research and industry. Security cleared and experienced working in cross-functional teams. Skilled in developing ML solutions, translating complex technical insights into actionable stakeholder recommendations, and advancing responsible AI adoption with strong model governance.",
@@ -18,15 +18,15 @@
       "countryCode": "GB"
     },
     "profiles": [
-      {
-        "network": "GitHub",
-        "username": "rhyslwells",
-        "url": "https://github.com/rhyslwells"
-      },
-      {
-        "network": "LinkedIn",
+            {
+        "network": "linkedin",
         "username": "rhyslwells",
         "url": "https://www.linkedin.com/in/rhyslwells/"
+      },
+      {
+        "network": "github",
+        "username": "rhyslwells",
+        "url": "https://github.com/rhyslwells/"
       }
     ]
   },
@@ -80,7 +80,7 @@
         "Developer",
         "Maintainer"
       ],
-      "url": "",
+      "url": "https://rhyslwells.github.io/Data-Archive/",
       "keywords": [
         "Knowledge Graph"
       ],
@@ -187,7 +187,7 @@
     }
   ],
   "references": [{
-    "name": "John Doe",
-    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt rutrum, nunc nisl aliquet justo, nec ultrices nisi nisl sit amet nisl."
-  }]
+    "name": "",
+    "reference": ""
+    }]
 }

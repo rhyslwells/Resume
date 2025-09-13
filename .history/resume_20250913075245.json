@@ -8,7 +8,7 @@
   "basics": {
     "name": "Dr Rhys Wells",
     "label": "Data Scientist & Engineer",
-  "image": "https://rhyslwells.github.io/assets/images/fav.jpg?v=1",
+    "image": "https://rhyslwells.github.io/assets/images/fav.jpg", 
     "email": "rhyslwells@outlook.com",
     "url": "https://rhyslwells.github.io",
     "summary": "Data scientist and engineer with a PhD in Mathematics and hands-on experience delivering machine learning solutions across research and industry. Security cleared and experienced working in cross-functional teams. Skilled in developing ML solutions, translating complex technical insights into actionable stakeholder recommendations, and advancing responsible AI adoption with strong model governance.",
@@ -113,7 +113,7 @@
     {
       "name": "Programming & Scripting",
       "level": "Proficient",
-      "keywords": ["Python", "Pandas","Powershell", "Scikit-learn", "SQL", "R", "Git", "Bash"]
+      "keywords": ["Python", "Pandas", "Scikit-learn", "SQL", "R", "Git", "Bash"]
     },
     {
       "name": "Model Development & Evaluation",
@@ -147,7 +147,17 @@
         "Team Building",
         "Mentoring",
         "Cross-functional Collaboration",
-        "Project Management"
+        "Project Management",
+        "Psychological Safety"
+      ]
+    },
+        {
+      "name": "Programming",
+      "level": "Proficient",
+      "keywords": [
+        "PowerShell",
+        "Python",
+        "SQL"
       ]
     },
         {
@@ -193,14 +203,27 @@
         "Fishing",
         "Hiking",
         "Camping"
-      ],
-      "achivements": [],
-      
-  "references": [],
-  "publications": [],
-  "volunteer": [],
-  "education": [],
-  "awards": []
+      ]
     }
-  ]
+  ],
+    "education": [
+      {
+        "institution": "University of Liverpool",
+      "level": "PhD",
+      "area": "Mathematics",
+      "startDate": "2019-09-01",
+      "endDate": "2023-12-01",
+      "score": "Doctor of Philosophy",
+      "summary": "Specialised in Algebraic Geometry & Computational Combinatorics.",
+      "learnings": "Collaborated with the University of Washington on novel research in algebraic geometry, developing computational algorithms to compute graph structures. Presented research in Cambridge, London, and Paris."
+      },
+      {
+        "institution": "University of Glasgow",
+      "level": "M.Sci",
+      "area": "Mathematics",
+      "startDate": "2014-01-01",
+      "endDate": "2019-01-01",
+      "score": "First-Class Honours",
+      "summary": "Specialised in Differential Equations & Numerical Methods"}
+    ]
 }
