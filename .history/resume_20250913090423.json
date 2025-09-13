@@ -74,34 +74,20 @@
   "projects": [
         {
       "name": "Data Archive",
-      "description": "My Second Brain focusing on data science, business, and engineering topics.",
+      "description": "My Second Brain.",
       "startDate": "2025-08-01",
       "roles": [
-        "Developer"      ],
+        "Developer",
+        "Maintainer"
+      ],
       "url": "https://rhyslwells.github.io/Data-Archive/",
       "keywords": [
         "Knowledge Graph"
       ],
       "type": "Open Source",
       "highlights": [
-        "Knowledge Base",
-        "Research"
+        "Test"
       ]
-    },
-    {
-      "name": "ML Tools",
-      "description": "A store of common ML tools.",
-      "startDate": "2025-01-01",
-      "roles": [
-        "Developer"
-      ],
-      "url": "https://github.com/rhyslwells/ML_Tools",
-      "keywords": [
-        "Machine Learning"
-      ],
-      "type": "Open Source",
-      "highlights": [
-        "Knowledge Base","Working"      ]
     }
   ],
   "education": [
@@ -111,7 +97,7 @@
       "studyType": "PhD",
       "startDate": "2019-09-01",
       "endDate": "2023-12-01",
-      "courses": ["Algebraic geometry","Combinatorics","Computational Computing","Research"]
+      "courses": ["Independent novel research in algebraic geometry, developing computational algorithms to compute graph structures. Collaborative research with the University of Washington. Presented research in Cambridge, London, and Paris."]
     },
     {
       "institution": "University of Glasgow",
